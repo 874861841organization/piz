@@ -1,7 +1,0 @@
-ERROR 	 2019-10-16 03:55:25 	 server 	 进程异常 	 WorkerID:0 	 WorkerPID:12860 	 ExitCode:0
-ERROR 	 2019-10-16 03:55:26 	 server 	 进程异常 	 WorkerID:0 	 WorkerPID:12870 	 ExitCode:0
-ERROR 	 2019-10-16 03:55:27 	 server 	 进程异常 	 WorkerID:0 	 WorkerPID:12871 	 ExitCode:0
-ERROR 	 2019-10-16 03:55:28 	 server 	 进程异常 	 WorkerID:0 	 WorkerPID:12872 	 ExitCode:0
-ERROR 	 2019-10-16 03:58:50 	 server 	 进程异常 	 WorkerID:0 	 WorkerPID:12937 	 ExitCode:0
-ERROR 	 2019-10-16 03:59:06 	 server 	 进程异常 	 WorkerID:0 	 WorkerPID:12974 	 ExitCode:0
-ERROR 	 2019-10-16 03:59:50 	 server 	 进程异常 	 WorkerID:0 	 WorkerPID:13048 	 ExitCode:255
